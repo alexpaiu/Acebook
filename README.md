@@ -13,5 +13,7 @@ Acebook is a C# application developed by our team C Flat. Users will be able to 
 ## Contributers
 
 • [Alex Paiu] (https://github.com/alexpaiu/)
+
 • [Kate Oldham] (https://github.com/okthenko)
+
 • [Stephane Emptage] (https://github.com/StefEmp)
