@@ -1,0 +1,9 @@
+/Users/alexpaiu/projects/final/Fizz/Fizz/bin/Debug/Fizz.exe
+/Users/alexpaiu/projects/final/Fizz/Fizz/bin/Debug/Fizz.pdb
+/Users/alexpaiu/projects/final/Fizz/Fizz/obj/Debug/Fizz.csproj.CoreCompileInputs.cache
+/Users/alexpaiu/projects/final/Fizz/Fizz/obj/Debug/Fizz.exe
+/Users/alexpaiu/projects/final/Fizz/Fizz/obj/Debug/Fizz.pdb
+/Users/alexpaiu/projects/final/Fizz/Fizz/bin/Debug/FizzBuzz.dll
+/Users/alexpaiu/projects/final/Fizz/Fizz/bin/Debug/FizzBuzz.pdb
+/Users/alexpaiu/projects/final/Fizz/Fizz/obj/Debug/Fizz.csproj.CopyComplete
+/Users/alexpaiu/projects/final/Fizz/Fizz/obj/Debug/Fizz.csprojAssemblyReference.cache

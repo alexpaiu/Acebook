@@ -1,0 +1,5 @@
+/Users/alexpaiu/projects/final/Fizz/FizzBuzz/bin/Debug/FizzBuzz.dll
+/Users/alexpaiu/projects/final/Fizz/FizzBuzz/bin/Debug/FizzBuzz.pdb
+/Users/alexpaiu/projects/final/Fizz/FizzBuzz/obj/Debug/FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/alexpaiu/projects/final/Fizz/FizzBuzz/obj/Debug/FizzBuzz.dll
+/Users/alexpaiu/projects/final/Fizz/FizzBuzz/obj/Debug/FizzBuzz.pdb
